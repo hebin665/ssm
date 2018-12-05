@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mavenday01_dao/mavenday01_dao.iml" filepath="$PROJECT_DIR$/mavenday01_dao/mavenday01_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday01_parent.iml" filepath="$PROJECT_DIR$/mavenday01_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday01_service/mavenday01_service.iml" filepath="$PROJECT_DIR$/mavenday01_service/mavenday01_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenday01_web/mavenday01_web.iml" filepath="$PROJECT_DIR$/mavenday01_web/mavenday01_web.iml" />
+    </modules>
+  </component>
+</project>
