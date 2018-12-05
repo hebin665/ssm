@@ -7,17 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="maven_day02_1" />
-        <module name="mavenday01_dao" />
-        <module name="mavenday01_service" />
-        <module name="mavenday01_web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="9">
-      <module name="maven_day02_1" target="9" />
-      <module name="mavenday01_dao" target="9" />
-      <module name="mavenday01_parent" target="9" />
-      <module name="mavenday01_service" target="9" />
-      <module name="mavenday01_web" target="9" />
+    <bytecodeTargetLevel>
+      <module name="maven_day02_1" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
